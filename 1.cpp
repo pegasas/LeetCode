@@ -1,3 +1,8 @@
+/*
+题目大意：给数组nums,求nums中两个数相加为target
+答案：
+扫描一维索引一维
+*/
 #include<bits/stdc++.h>
 using namespace std;
 

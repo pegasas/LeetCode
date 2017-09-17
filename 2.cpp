@@ -1,3 +1,8 @@
+/*
+题目大意：给2个链表l1,l2,求和链表
+答案：
+模拟加法，动态new创造节点
+*/
 #include<bits/stdc++.h>
 using namespace std;
 struct ListNode {
